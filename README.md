@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 I’m currently working learning the basics of coding in JavasScript.  
+- 🌱 I’m currently learning JavaScript. 
+- 👯 I’m looking to collaborate on TBD.
+- 💬 Ask me about gaming. 
+- 📫 How to reach me: karyssakmiller@gmail.com.
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I enjoy FPS & cozy games. 
