@@ -15,10 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working learning the basics of coding in JavasScript.  
-- 🌱 I’m currently learning JavaScript. 
-- 👯 I’m looking to collaborate on TBD.
-- 💬 Ask me about gaming. 
+- 🌱 Karyssa Miller is a skilled Software Engineer with a strong foundation in full-stack development, specializing in Java, Python, and SQL. She has extensive experience in building scalable web applications using Spring Boot and Vue.js, and is proficient in managing databases with PostgreSQL. Karyssa is adept at system configuration, security, and automation, having developed and maintained complex systems in Linux/Unix environments. Her expertise also extends to broadcasting technologies, where she has supported the integration and testing of next-generation IP-based platforms. Known for her problem-solving abilities and collaborative approach, Karyssa is passionate about leveraging technology to drive innovation and deliver impactful solutions.
 - 📫 How to reach me: karyssakmiller@gmail.com.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I enjoy FPS & cozy games. 
