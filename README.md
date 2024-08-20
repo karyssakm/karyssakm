@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 Karyssa Miller is a driven and innovative Software Engineer with a strong background in full-stack development, automation, and data management. She has a proven track record of developing scalable and secure web applications using technologies such as Java, Spring Boot, PostgreSQL, and Vue.js. Karyssa's expertise extends to automating complex processes, which has significantly enhanced operational efficiency and driven substantial business growth.
+🌱 Karyssa Miller is a driven and innovative Software Engineer with a strong background in full-stack development, automation, and data management. She has a proven track record of developing scalable and secure web applications using technologies such as Java, Spring Boot, PostgreSQL, and Vue.js. Karyssa's expertise extends to automating complex processes, which has significantly enhanced operational efficiency and driven substantial business growth.
 
 In her role as a Senior Product Analyst and Technical Analyst at Flywheel Digital, Karyssa led the development of automation tools that streamlined product information accuracy, resulting in a remarkable 82% improvement. Her forward-thinking approach to automation, particularly in AWS-based initiatives, contributed to a substantial increase in profitability, generating over $3 million in additional revenue and achieving a 150% year-over-year growth.
 
