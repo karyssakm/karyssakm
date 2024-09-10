@@ -21,6 +21,7 @@ In her role as a Senior Product Analyst and Technical Analyst at Flywheel Digita
 
 Karyssa's experience also includes managing cross-functional teams, mentoring over 160 new employees, and consistently delivering high-quality software solutions. Her ability to collaborate effectively, solve complex technical problems, and communicate clearly has made her a key asset in every team she has worked with.
 
+-Website: karyssamiller.com (currently waiting for domain name to go through stay tuned!) 
 - 📫 How to reach me: karyssakmiller@gmail.com.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I enjoy FPS & cozy games. 
